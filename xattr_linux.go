@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	prefix = "user."
+	prefix = ""
 )
 
 // Strip "user." prefix on Linux.
